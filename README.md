@@ -1,5 +1,4 @@
 ### Bem vindo, Eu sou o Rômulo Queiroz
-Here are some ideas to get you started:
 
 - 🔭 Atualmente trabalho com projetos Front-and
 - 🌱 Estudando e aprimorando conhecimentos com HTML e CSS
