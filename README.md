@@ -1,10 +1,19 @@
-### Bem vindo, Eu sou o Rômulo Queiroz
+<h1 align="center">Bem vindo, Eu sou o Rômulo Queiroz</h1>
 
-- 🔭 Atualmente trabalho com projetos Front-and
+<!-- - 🔭 Atualmente trabalho com projetos Front-and
 - 🌱 Estudando e aprimorando conhecimentos com HTML e CSS
 - 📫 Contato profissional: rfcontatosvia@icloud.com
 - 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Escrevo livros nas férias e ando de skate
+- ⚡ Fun fact: Escrevo livros nas férias e ando de skate -->
+
+
+<!-- IMAGEM PAINEL -->
+<div align="center">
+  <a href="https://github.com/Romulo-Queiroz">
+  <img height="360em" width="100%" src="https://media.discordapp.net/attachments/971490256543170694/973841420567842826/toa-heftiba--Wor0Xz9sqQ-unsplash.jpg?width=1170&height=780"/>
+</div>
+  
+  ##
 
 <!-- Github Status -->
 
