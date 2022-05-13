@@ -28,7 +28,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/971490256543170694/971497137936412692/gif-github.gif">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/971490256543170694/974471093094072320/picasion.com_c2ae38bbb01e17b61ca6ab68865df713.gif">
 </div>
 
   ##
