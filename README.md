@@ -9,7 +9,7 @@
 
 <!-- IMAGEM PAINEL -->
 <div align="center">
-  <a href="https://github.com/Romulo-Queiroz">
+  <a href="https://cdn.discordapp.com/attachments/971490256543170694/971497137936412692/gif-github.gif">
   <img height="360em" width="100%" src="https://media.discordapp.net/attachments/971490256543170694/973841420567842826/toa-heftiba--Wor0Xz9sqQ-unsplash.jpg?width=1170&height=780"/>
 </div>
   
