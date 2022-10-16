@@ -1,11 +1,16 @@
-<!-- Name here-->
+
+<!-- TEMPLATE VERCEL-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ff9580&height=120&section=header"/>
+
+<!-- BE WELCOME-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#f8e19f&size=35&center=true&vCenter=true&width=1000&lines=Be,+Welcome;)
 <!--  profile - languages -->
-  <div align="center">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>
+
+<!-- ARCHIVEMENTS-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Romulo-Queiroz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 <!-- Github Status -->
 
 <div align="center">
@@ -13,8 +18,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulo-queiroz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
-
-
 
   
 <!--   Social media -->
