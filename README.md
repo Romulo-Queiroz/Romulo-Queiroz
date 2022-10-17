@@ -6,11 +6,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff80&size=35&center=true&vCenter=true&width=1000&lines=console.log('HELLO,+BE+WELCOME'))
 <!--  profile - languages -->
 
-<!-- ARCHIVEMENTS-->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Romulo-Queiroz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <!-- Github Status -->
 
 <div align="center">
@@ -18,8 +13,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulo-queiroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulo-queiroz&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
-
   
+<!-- ARCHIVEMENTS-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Romulo-Queiroz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+ 
 <!--   Social media -->
   
   <div align="center">
