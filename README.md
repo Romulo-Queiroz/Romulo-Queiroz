@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/rômuloqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
   
-  <a href="[download/acme-doc-2.0.1.txt](https://discord.com/channels/1018936080868847636/1026687138684739614/1042536150197358614)" download="https://cdn.discordapp.com/attachments/1026687138684739614/1042536150344142918/Dev_Frontend_Romulo-Freitas.pdf">Download Text</a>
+  <a href="https://cdn.discordapp.com/attachments/1026687138684739614/1042536150344142918/Dev_Frontend_Romulo-Freitas.pdf" download="https://cdn.discordapp.com/attachments/1026687138684739614/1042536150344142918/Dev_Frontend_Romulo-Freitas.pdf">Download Text</a>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9580ff&height=120&section=footer"/>
 
