@@ -28,8 +28,8 @@
  <a href="https://discord.gg/MDV8RApg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rômuloqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
-  
+ <div align="center">
   <a href="https://cdn.discordapp.com/attachments/1026687138684739614/1042536150344142918/Dev_Frontend_Romulo-Freitas.pdf" download="https://cdn.discordapp.com/attachments/1026687138684739614/1042536150344142918/Dev_Frontend_Romulo-Freitas.pdf">My Resume here</a>
-  
+ </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9580ff&height=120&section=footer"/>
 
