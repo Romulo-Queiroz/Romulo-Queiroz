@@ -3,7 +3,7 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ff9580&height=120&section=header"/> -->
 
 <!-- BE WELCOME-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff80&size=35&center=true&vCenter=true&width=1000&lines=console.log('HELLO,+BE+WELCOME'))
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFE5CC&size=35&center=true&vCenter=true&width=1000&lines=console.log('HELLO,+BE+WELCOME'))
 <!--  profile - languages -->
 
 <!-- Github Status -->
