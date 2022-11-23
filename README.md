@@ -14,10 +14,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulo-queiroz&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
   
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=Romulo-Queiroz&theme=dracula&hide_border=true&area=true)
 <!-- ARCHIVEMENTS-->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Romulo-Queiroz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
  
 <!--   Social media -->
