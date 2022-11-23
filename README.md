@@ -1,6 +1,6 @@
 
 <!-- TEMPLATE VERCEL-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ff9580&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ff9580&height=120&section=header"/> -->
 
 <!-- BE WELCOME-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff80&size=35&center=true&vCenter=true&width=1000&lines=console.log('HELLO,+BE+WELCOME'))
@@ -31,5 +31,5 @@
  <div align="center">
   <a href="https://cdn.discordapp.com/attachments/1026687138684739614/1042583783683133611/Dev_Frontend_Romulo-Freitas.pdf" download="https://cdn.discordapp.com/attachments/1026687138684739614/1042583783683133611/Dev_Frontend_Romulo-Freitas.pdf">My Resume here</a>
  </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9580ff&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9580ff&height=120&section=footer"/> -->
 
