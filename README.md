@@ -43,5 +43,5 @@ fetch("/archive.json")
 ```
 
 ```js
-console.log("Give me job ;)");
+console.log("Give me a job");
 ```
