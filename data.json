@@ -1,0 +1,18 @@
+{
+  "me": {
+    "name": "Rômulo",
+    "age": "25 years",
+    "techs": ["Bootstrap', 'HTML', 'CSS', 'Javascript', 'node.js"],
+    "currntly": "Learning node.js and Javascript",
+    "github_url": "https://github.com/Romulo-Queiroz",
+    "github_avatar": "https://avatars.githubusercontent.com/u/88904173?v=4",
+    "linkedin_url": "https://www.linkedin.com/in/r%C3%B4muloqueiroz/",
+    "location": "Rio das Ostras",
+    "about": [
+      {
+        "about_me": "Hello, look my bio :)",
+        "description": "This is my first project using node.js."
+      }
+    ]
+  }
+}
