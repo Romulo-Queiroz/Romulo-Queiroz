@@ -1,47 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=35&pause=1000&color=BABBB3&center=true&width=435&lines=Hello+be+wellcome)](https://git.io/typing-svg)
+### Rômulo Queiroz
+> Tenho 25 anos, iniciei minha carreira na área tech em Agosto de 2021. 
+> Sou aluno no curso de ***Engenharia de Software*** na faculdade Estácio de Sá,
+> atualmente me especializando em Desenvolvimento Web.
+> > ***Autor do Projeto Open Source <a target="_blank" href="https://github.com/Romulo-Queiroz/Site-Tibiano">Tibia Task</a>*** :dizzy:
 
----
 
-```js
-fetch("/archive.json")
-  .then((response) => response.json())
-  .then((data) => {
-    console.log(data);
-    var div = document.querySelector(".accordion-body");
-    var p = document.createElement("div");
+> Você pode ler mais sobre mim aqui: 
+> 
+>> <a href="https://bootstrap-profile.netlify.app/index.html" target="_blank"> Bootstrap Project</a>
 
-    var { name, age, currntly } = data.me;
-    p.innerHTML = `
-    <img src="${data.me.github_avatar}" class="avatar"/>
-    <p class= "textHere">Name: ${name}</p>
-    <p class= "textHere">Age: ${age}</p>
-    <p class= "textHere">Currently: ${currntly}</p>
-    <p class= "textHere">Techs: ${data.me.techs}</p>
-    
-    `;
-    div.appendChild(p);
-  });
-```
+>> Tecnologias utilizadas nos ultimos projetos:
+>> * Vanilla
+>> * Bootstrap
+>> * React
+>> * Css
+>> * Sass
 
-```html
-<div class="accordion-item">
-  <div class="accordion-body">
-    <div>
-      <img
-        src="https://avatars.githubusercontent.com/u/88904173?v=4"
-        class="avatar"
-      />
-      <p class="textHere">Name: Rômulo</p>
-      <p class="textHere">Age: 25 years</p>
-      <p class="textHere">Currently: Learning node.js and Javascript</p>
-      <p class="textHere">
-        Techs: Bootstrap', 'HTML', 'CSS', 'Javascript', 'node.js
-      </p>
-    </div>
-  </div>
-</div>
-```
-
-```js
-console.log("Give me a job");
-```
+#### Procuro Estágio na área de Desenvolvimento.
+> Contato:
+>> rfcontatosvia@gmail.com
