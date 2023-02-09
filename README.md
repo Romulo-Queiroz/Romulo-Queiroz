@@ -11,8 +11,10 @@
 
 >> Tecnologias utilizadas nos ultimos projetos:
 >> * Vanilla
+>> * C#
 >> * Bootstrap
 >> * React
+>> * ASP.NET
 >> * Css
 >> * Sass
 
