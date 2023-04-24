@@ -15,12 +15,8 @@
 
 1. Vanilla 
 2. C#
-3. Bootstrap
-4. React
-5. ASP.NET
-6. CSS
-7. Sass
-8. Java
+3. ASP.NET
+
 
 ### Contato
 > Você pode entrar em contato comigo pelo e-mail: rfcontatosvia@gmail.com
