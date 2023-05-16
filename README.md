@@ -17,6 +17,8 @@
 2. C#
 3. ASP.NET
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Queiroz&langs_count=8&layout=compact&hide=html,css&theme=dark)](https://github.com/Romulo-Queiroz)
+
 
 ### Contato
 > Você pode entrar em contato comigo pelo e-mail: rfcontatosvia@gmail.com
