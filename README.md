@@ -12,12 +12,24 @@
 
 ### Tecnologias
  > Tenho experiência em trabalhar com as seguintes tecnologias:
-
-1. Vanilla 
-2. C#
-3. ASP.NET
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Queiroz&langs_count=8&layout=compact&hide=html,css&theme=dark)](https://github.com/Romulo-Queiroz)
+<div>
+  <table>
+    <tr>
+      <td>
+        <ol>
+          <li>C#</li>
+          <li>Vanilla</li>
+          <li>Tapyscript</li>
+        </ol>
+      </td>
+      <td>
+        <a href="https://github.com/Romulo-Queiroz">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Queiroz&langs_count=8&layout=compact&hide=html,css&theme=dark" alt="Top Linguagens">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### Contato
