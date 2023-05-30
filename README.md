@@ -1,37 +1,49 @@
-## Rômulo Queiroz
-### Objetivos
-> Eu sou um desenvolvedor de software em início de carreira e estou sempre em busca de oportunidades para expandir minhas habilidades e conhecimentos. Meu objetivo é trabalhar em projetos desafiadores que me permitam aprender e crescer como desenvolvedor.
+<h1 align="center">Hi 👋, I'm Rômulo Queiroz</h1>
 
-### Experiência Profissional
-> Atualmente, sou estagiário na <a href="https://idutto.com.br/">I-Dutto</a>, onde trabalho em projetos de desenvolvimento de software, incluindo aplicações web e móveis. Minhas responsabilidades incluem a escrita de código, testes e solução de problemas de software. Durante meu tempo na I-Dutto, pude aprender com profissionais experientes e melhorar minhas habilidades em diferentes áreas, como desenvolvimento front-end e back-end.
+<br />
 
-### Projetos
- * Tibia Task - Projeto de código aberto que ajuda jogadores do jogo Tibia a gerenciar suas tarefas diárias. Como proprietário do projeto, eu criei e gerenciei o código fonte, documentação e o fluxo de trabalho do projeto.
+I'am a self-taught passionate BackEnd developer from Brazil 🇧🇷</h3>
 
- * Bootstrap Project - Projeto pessoal que construí usando o Bootstrap para criar uma página pessoal. Neste projeto, eu pratiquei minhas habilidades em design de interface do usuário e desenvolvimento front-end.
+**About me**
 
-### Tecnologias
- > Tenho experiência em trabalhar com as seguintes tecnologias:
-<div>
-  <table>
-    <tr>
-      <td>
-        <ol>
-          <li>C#</li>
-          <li>Vanilla</li>
-          <li>Tapyscript</li>
-        </ol>
-      </td>
-      <td>
-        <a href="https://github.com/Romulo-Queiroz">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Queiroz&langs_count=8&layout=compact&hide=html,css&theme=dark" alt="Top Linguagens">
-        </a>
-      </td>
-    </tr>
-  </table>
+- 💼 Software Engineer at [I-Dutto](https://idutto.com.br/)
+  
+- ❤️ I love writing TypeScript, JavaScript and C#.
+
+| <a href="https://github.com/romulo-queiroz">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulo-queiroz&hide=java,html,scss,css&show_icons=true&include_all_commits=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" /> </a> | <a href="http://github.com/romulo-queiroz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=romulo-queiroz&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Romulo github stats" /></a>
+
+
+##
+<div style="display: inline_block">
+  <h3 align="left">Languages and Tools:</h3>
+
+
+  <code><img alt="csharp" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /></code>
+  <code><img alt="javascript" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></code>
+  <code><img alt="typescript" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /></code>
+
+
+  <code><img alt="sqlite" height="20" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" /></code>
+  <code><img alt="sql-server" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></code>
+
+
+  <code><img alt="netcore" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></code>
+  <code><img alt="net" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /></code>
+
+  
+ <code> <img alt="net" height="20" src="https://skills.thijs.gg/icons?i=angular"></code>
+
+
 </div>
 
-### Contato
-> Você pode entrar em contato comigo pelo e-mail: rfcontatosvia@gmail.com
+##
 
+<div>
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="rfcontatosvia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+    <a href="https://www.linkedin.com/in/r%C3%B4muloqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  </p>
+</div>
 
