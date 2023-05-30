@@ -2,7 +2,7 @@
 
 <br />
 
-I'am a self-taught passionate BackEnd developer from Brazil 🇧🇷</h3>
+I am a junior backend developer from Brazil who loves what I do</h3>
 
 **About me**
 
