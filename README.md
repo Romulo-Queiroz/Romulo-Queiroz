@@ -6,7 +6,7 @@ I am a junior backend developer from Brazil who loves what I do</h3>
 
 **About me**
 
-- 💼 Software Engineer at [I-Dutto](https://idutto.com.br/)
+- 💼 Software Engineer 
   
 - ❤️ I love writing TypeScript, JavaScript and C#.
 
