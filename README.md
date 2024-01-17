@@ -3,11 +3,10 @@
 <br />
 
 <h3>I am a junior backend developer from Brazil who loves what I do</h3>
-<p>Sofware Engineer at <a href="https://www.4all.com/">Target Sistemas</a></p>
 
 **About me**
 
-- 💼 Software Engineer 
+- 💼 Software Engineer at <a href="https://www.4all.com/">Target Sistemas</a>
   
 - ❤️ I love writing TypeScript, JavaScript and C#.
 
