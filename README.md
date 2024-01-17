@@ -3,7 +3,7 @@
 <br />
 
 <h3>I am a junior backend developer from Brazil who loves what I do</h3>
-<p>Software Engineer at <a href"https://targetsistemas.com.br/" target="_blank" > Target Sistemas</a></p>
+<p>Sofware Engineer at <a href="https://www.4all.com/">Target Sistemas</a></p>
 
 **About me**
 
