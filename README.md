@@ -2,7 +2,7 @@
 
 <br />
 
-<h3>I am a junior backend developer from Brazil who loves what I do</h3>
+<h3>I am a Fullstack developer from Brazil who loves what I do</h3>
 
 **About me**
 
