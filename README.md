@@ -6,7 +6,7 @@
 
 **About me**
 
-- 💼 Software Engineer at <a href="https://targetsistemas.com.br/">Target Sistemas</a>
+- 💼 Software Engineer at <a href="https://valid.com/">Valid</a>
   
 - ❤️ I love writing TypeScript, JavaScript and C#.
 
