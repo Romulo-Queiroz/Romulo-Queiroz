@@ -6,7 +6,7 @@
 
 **About me**
 
-- 💼 Software Engineer at <a href="https://valid.com/">Valid</a>
+- 💼 Software Engineer at <a href="https://rf-technology.dev.br/">RF Technoloy</a>
   
 - ❤️ I love writing TypeScript, JavaScript and C#.
 
