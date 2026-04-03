@@ -6,7 +6,7 @@
 
 **About me**
 
-- 💼 Software Engineer at <a href="https://rf-technology.dev.br/">RF Technoloy</a>
+- 💼 Software Engineer at RF Technoloy
   
 - ❤️ I love writing TypeScript, JavaScript and C#.
 
